@@ -6,8 +6,8 @@ Développez facilement une application React de Pokémons à partir d'un dossier
 
 [Udemy](https://www.udemy.com/course/reactjs-tutorial-francais-authentication-api-rest-autocomplete-router/)
 
-lien application :
-**user** : pikachu
-**password** : pikachu
+lien application : (**veuillez utiliser l'identifiant et mot de passe ci-dessous**)
+
+**user** : pikachu | **password** : pikachu
 
 [Pokedex](https://pokedex-d0273.firebaseapp.com)
